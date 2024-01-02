@@ -1,0 +1,21 @@
+.product-container{
+    border: 2px solid rgb(212, 129, 129);
+    width: 300px;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.heart-icon{
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+    margin-right: 200px;
+}
+h4{
+    margin-right: 60px;
+}
+p{
+    margin: 0;
+    margin-right: 175px;
+   
+}
